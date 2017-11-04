@@ -119,7 +119,7 @@ START-OF-SELECTION.
     EXPORTING
       make     = 'Mercedes'
       model    = 'E350'
-      numseats = 5
-      maxspeed = 125.
+      numseats = 2
+      maxspeed = 150.
 
   uline.
