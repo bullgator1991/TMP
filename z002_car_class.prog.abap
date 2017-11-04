@@ -118,8 +118,8 @@ START-OF-SELECTION.
   CREATE OBJECT car1
     EXPORTING
       make     = 'Mercedes'
-      model    = 'E350'
-      numseats = 2
-      maxspeed = 150.
+      model    = 'C300'
+      numseats = 5
+      maxspeed = 125.
 
   uline.
