@@ -120,6 +120,4 @@ START-OF-SELECTION.
       make     = 'Mercedes'
       model    = 'E350'
       numseats = 5
-      maxspeed = 160.
-
-  uline.
+      maxspeed = 150.
