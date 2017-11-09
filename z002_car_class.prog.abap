@@ -120,4 +120,4 @@ START-OF-SELECTION.
       make     = 'Mercedes'
       model    = 'E350'
       numseats = 5
-      maxspeed = 175.
+      maxspeed = 200.
